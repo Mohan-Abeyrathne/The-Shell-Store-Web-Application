@@ -1,4 +1,4 @@
-# 🐚 The Shell Store | NSBM E-Commerce Platform
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> </picture> The Shell Store | NSBM E-Commerce Platform
 
 A fully functional, database-driven e-commerce web application designed for the **NSBM Green University** community. This project facilitates the digital sale of decorative and rare seashells through a secure, dual-interface system.
 
