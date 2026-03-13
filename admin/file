@@ -1,0 +1,9 @@
+            <td>1</td>
+            <td>Shell</td>
+            <td>image</td>
+            <td>22</td>
+            <td>0</td>
+            <td>true</td>
+            <td><a href=' class='text-light'><i class='fa-solid fa-pencil-square' style='color:cornflowerblue'></i></a></td>
+            <td><a href='' class='text-light'><i class='fa-solid fa-trash' style='color:crimson'></i></a></td>
+            </tr>
