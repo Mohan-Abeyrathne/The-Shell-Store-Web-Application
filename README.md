@@ -35,10 +35,4 @@ The project follows a modular structure for scalability and security:
 
 ---
 
-## 🔧 Installation & Setup
-1. Clone the repository to your `htdocs` folder.
-2. Import the provided `.sql` file into your **phpMyAdmin**.
-3. Configure `includes/db.php` with your database credentials.
-4. Access via `localhost/the_shell_store`.
-
 
