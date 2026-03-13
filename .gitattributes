@@ -1,8 +1,5 @@
-# Force PHP detection
 *.php linguist-detectable=true
 
-# Ignore the SQL file for language stats so it doesn't mess with percentages
 *.sql linguist-documentation=true
 
-# Ignore CSS libraries (Bootstrap) so they don't hide your PHP work
 css/* linguist-vendored
