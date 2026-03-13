@@ -41,5 +41,4 @@ The project follows a modular structure for scalability and security:
 3. Configure `includes/db.php` with your database credentials.
 4. Access via `localhost/the_shell_store`.
 
----
-**Developed by Mohan Abeyrathne** *Data Science Undergraduate | NSBM Green University*
+
